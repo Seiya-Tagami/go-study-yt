@@ -1,3 +1,5 @@
+// @see https://www.youtube.com/watch?v=GlA57dHa5Rg
+
 package main
 
 import "fmt"
